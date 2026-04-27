@@ -15,7 +15,7 @@ The research question concerned weather students would like to have livestreams 
 Here are the three visualizations used within the code to show the votes of students from the survey. The graph mainly leans towards the higher answers, those being 4 and above. 
 
 
-<img src="/static/imgs/1.png" width="300"/> <img src="/static/imgs/2.png" width="300"/> <img src="/static/imgs/3.png" width="300"/>
+<img src="/jojo/static/imgs/1.png" width="300"> <img src="/jojo/static/imgs/2.png" width="300"> <img src="/jojo/static/imgs/3.png" width="300">
 
 
 ## Conclusion

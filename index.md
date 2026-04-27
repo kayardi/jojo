@@ -7,10 +7,7 @@ layout: default
 The following information was analyzed from a collection of data. 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="jojo/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="jojo/staic/imgs/1.png" width="300"/>
-<img src="jojo/staic/imgs/2.png" width="300"/>
-<img src="jojo/staic/imgs/3.png" width="300"/>
+<img src="jojo/staic/imgs/1.png" width="300"/> // <img src="jojo/staic/imgs/2.png" width="300"/> // <img src="jojo/staic/imgs/3.png" width="300"/>
 
 ## Conclusion
 After combining both data sets, there is conclusive evidence to show what students would want. The data was cleaned up and responses that were not corrupt or empty were taken into account with this data. The data analysis from the graphs support that students would like to have livestreams of lessons to accomodate them when necessary. <br/>

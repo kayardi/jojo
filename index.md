@@ -13,7 +13,10 @@ The research question concerned weather students would like to have livestreams 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 ## Figures: Barplot, Boxplot, Linegraph
 Here are the three visualizations used within the code to show the votes of students from the survey. The graph mainly leans towards the higher answers, those being 4 and above. 
+
+
 <img src="/static/imgs/1.png" width="300"/> <img src="/static/imgs/2.png" width="300"/> <img src="/static/imgs/3.png" width="300"/>
+
 
 ## Conclusion
 After combining both data sets, there is conclusive evidence to show what students would want. The data was cleaned up and responses that were not corrupt or empty were taken into account with this data. The data analysis from the graphs support that students would like to have livestreams of lessons to accomodate them when necessary. <br/>

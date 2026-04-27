@@ -4,9 +4,13 @@ layout: default
 ---
 
 # Exercise 09: Data Analysis for Continuous Improvement
-The following information was analyzed from a collection of data. 
+The following information was analyzed from a collection of data.
 
+## Analysis Summary
+Survey responses from the data provided were loaded into read_csv_rows with columnar, converting the csv file to columns. Head was used to look at the data to ensure its readiness for analyzation, and this was then further cleaned up with the helper function, filter_and_count. This function omitted any responses that were corrupt or empty. The numeric data was analyzed with seaborn. 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
+## Figures: Barplot, Boxplot, Linegraph
+Here are the three visualizations used within the code to show the votes of students from the survey. The graph mainly leans towards the higher answers, those being 4 and above. 
 <img src="/static/imgs/1.png" width="300"/> <img src="/static/imgs/2.png" width="300"/> <img src="/static/imgs/3.png" width="300"/>
 
 ## Conclusion
